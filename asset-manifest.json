@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/deploy_react_treino/static/css/main.aeda7719.chunk.css",
+    "main.js": "/deploy_react_treino/static/js/main.fb7a60f9.chunk.js",
+    "main.js.map": "/deploy_react_treino/static/js/main.fb7a60f9.chunk.js.map",
+    "runtime-main.js": "/deploy_react_treino/static/js/runtime-main.f115b064.js",
+    "runtime-main.js.map": "/deploy_react_treino/static/js/runtime-main.f115b064.js.map",
+    "static/js/2.c099c141.chunk.js": "/deploy_react_treino/static/js/2.c099c141.chunk.js",
+    "static/js/2.c099c141.chunk.js.map": "/deploy_react_treino/static/js/2.c099c141.chunk.js.map",
+    "index.html": "/deploy_react_treino/index.html",
+    "precache-manifest.71e305ecbabaf752bf5c2599b03987e0.js": "/deploy_react_treino/precache-manifest.71e305ecbabaf752bf5c2599b03987e0.js",
+    "service-worker.js": "/deploy_react_treino/service-worker.js",
+    "static/css/main.aeda7719.chunk.css.map": "/deploy_react_treino/static/css/main.aeda7719.chunk.css.map",
+    "static/js/2.c099c141.chunk.js.LICENSE.txt": "/deploy_react_treino/static/js/2.c099c141.chunk.js.LICENSE.txt",
+    "static/media/gm.jpg": "/deploy_react_treino/static/media/gm.f234e6a3.jpg",
+    "static/media/logo.svg": "/deploy_react_treino/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f115b064.js",
+    "static/js/2.c099c141.chunk.js",
+    "static/css/main.aeda7719.chunk.css",
+    "static/js/main.fb7a60f9.chunk.js"
+  ]
+}
